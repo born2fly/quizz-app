@@ -60,7 +60,7 @@ function checkAnswer(guess){
 		score++;}
 	
 
-	$('.current-score').text("Your score is -->" +score);
+	$('.current-score').text("Your score is --> " +score);
 
 	}
   

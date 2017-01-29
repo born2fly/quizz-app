@@ -3,8 +3,8 @@
 }
 
 body {
-    background-color: #D6D6D6;
-    /*background-image: url("House Blueprint.jpg");*/
+    background-color: #719ebb;
+    background-image: url("House Blueprint.jpg");
     background-repeat: no-repeat; 
     font-family: Open Sans; 
 	}
@@ -13,3 +13,31 @@ body {
  	text-align: center;
  	margin-top: auto;
  }
+
+ ul {
+ 	list-style-type: none;
+ }
+
+.start-quiz,.submit-button {
+ 	display: block;
+ 	background-color: #f2dca2;
+ 	clear:left;
+ 	margin-top: 10px;
+ 	margin-bottom: 20px;
+ 	margin-left: 20px;
+ }
+ .displayquestion  {
+ 	text-align: center;
+ 	margin-top: 680px;
+ }
+
+ .displaychoices {
+ 	text-align: center;
+ 	margin-top: 30px;
+ }
+
+ .current-score {
+ 	text-align: center;
+ }
+
+ 
